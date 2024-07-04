@@ -52,4 +52,4 @@ Enter the Number:
 - The game will display the correct number, the number of turns used, and your score.
 
 ## Author
-Akash R
+- Akash R
